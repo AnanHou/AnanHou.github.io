@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 
-title: "Lone Wolf Theme"
+title: "Rabbit Screen Time Control"
 excerpt: "A simple bootstrap based jekyll theme."
 action: true
 action_btn:
